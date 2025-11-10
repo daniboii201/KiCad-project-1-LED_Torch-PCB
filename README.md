@@ -4,17 +4,25 @@
 ## Features
 ### Components:
 • LED
+
 • Resistor
+
 • Push Button
+
 • CR2032 Battery Holder
 
 ## Tools Used
+
 • KiCad for schematic and PCB layout
 
 ## Why This Project?
+
 • This LED torch was a great starting point for learning PCB design fundamentals, including schematic capture, footprint assignment, and routing.
 
 ## Repository Contents
+
 • KiCad project files (.sch, .kicad_pcb)
+
 • Schematic diagram
+
 • PCB layout
