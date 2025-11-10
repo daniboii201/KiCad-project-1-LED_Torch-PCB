@@ -30,4 +30,4 @@ This is my first PCB design created using KiCad. It’s a beginner-friendly proj
 
 • Includes a mounting hole
 
-• Silkscreen and graphics on both front and 
+• Silkscreen and graphics on both front and back
