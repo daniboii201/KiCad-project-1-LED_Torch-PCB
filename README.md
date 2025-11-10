@@ -11,7 +11,7 @@
 
 • CR2032 Battery Holder
 
-## Tools Used
+### Tools Used:
 
 • KiCad for schematic and PCB layout
 
