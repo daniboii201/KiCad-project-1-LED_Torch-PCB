@@ -8,6 +8,10 @@ This is my first PCB design created using KiCad. It’s a beginner-friendly proj
 <img width="980" height="580" alt="image" src="https://github.com/user-attachments/assets/dc4e091f-5919-415d-baba-a3c48bf40ba6" />
 
 ## Features
+• LED torch powered by a CR2032 coin cell
+
+• Ideal for learning PCB design basics: schematic capture, footprint assignment, and routing
+
 ### Components:
 • LED
 
@@ -17,13 +21,16 @@ This is my first PCB design created using KiCad. It’s a beginner-friendly proj
 
 • CR2032 Battery Holder
 
-### Tools Used:
+### Characteristics:
+• Copper on top layer
 
-• KiCad for schematic and PCB layout
+• Edge cuts with rounded segments
 
-## Why This Project?
+• Combination of surface-mounted and through-hole components
 
-This LED torch was a great starting point for learning PCB design fundamentals, including schematic capture, footprint assignment, and routing.
+• Includes a mounting hole
+
+• Silkscreen and graphics on both front and 
 
 ## Repository Contents
 
