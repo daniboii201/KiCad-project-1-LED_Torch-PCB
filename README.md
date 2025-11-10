@@ -1,6 +1,11 @@
 # KiCad project #1: LED Torch PCB
 This is my first PCB design created using KiCad. It’s a beginner-friendly project featuring a very simple circuit: an LED, a resistor, a push button, and a CR2032 battery holder.
 
+<img width="777" height="345" alt="image" src="https://github.com/user-attachments/assets/eff9a9f9-097f-4857-a041-ec9af84e7a79" />
+
+<img width="848" height="396" alt="image" src="https://github.com/user-attachments/assets/5055c19a-682e-4cf1-83d8-08c29f2f7ddf" />
+
+
 ## Features
 ### Components:
 • LED
